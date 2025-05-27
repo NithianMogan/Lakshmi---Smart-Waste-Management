@@ -190,6 +190,7 @@ Team Members:
 * Senthanee
 * Srikanth
 * Vicky
+* Nithian
 * Gokulan
 
 We welcome feedback, issues, or feature suggestions!
@@ -200,7 +201,8 @@ We welcome feedback, issues, or feature suggestions!
 
 *Please update with actual contact details:*
 
-* 📧 Gokulan: \[[email@example.com](mailto:email@example.com)] | 📞 +91-XXXXXXXXXX
-* 📧 Senthanee: \[[email@example.com](mailto:email@example.com)] | 📞 +91-XXXXXXXXXX
-* 📧 Srikanth: \[[email@example.com](mailto:email@example.com)] | 📞 +91-XXXXXXXXXX
-* 📧 Vicky: \[[email@example.com](mailto:email@example.com)] | 📞 +91-XXXXXXXXXX
+* 📧 Gokulan: \[[email@example.com](mailto:email@example.com)] | 
+* 📧 Nithian: \[[email@example.com](mailto:nithianmogan@gmail.com)] | 
+* 📧 Senthanee: \[[email@example.com](mailto:email@example.com)] | 
+* 📧 Srikanth: \[[email@example.com](mailto:email@example.com)] | 
+* 📧 Vicky: \[[email@example.com](mailto:email@example.com)] | 
