@@ -202,7 +202,7 @@ We welcome feedback, issues, or feature suggestions!
 *Please update with actual contact details:*
 
 * 📧 Gokulan: \[[email@example.com](mailto:email@example.com)] | 
-* 📧 Nithian: \[[email@example.com](mailto:nithianmogan@gmail.com)] | 
+* 📧 Nithian: \[[nithianmogan@gmail.com](mailto:nithianmogan@gmail.com)] | 
 * 📧 Senthanee: \[[email@example.com](mailto:email@example.com)] | 
 * 📧 Srikanth: \[[email@example.com](mailto:email@example.com)] | 
 * 📧 Vicky: \[[email@example.com](mailto:email@example.com)] | 
